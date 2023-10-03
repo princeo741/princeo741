@@ -4,7 +4,7 @@ princeo741/princeo741 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi, I'm Prince Gupta</h1>
-<h3 align="center">Software developer with a passion for building scalable and efficient applications.</h3>
+<h3 align="center">Software Developer | Generative AI & Computer Vision Enthusiast.</h3>
 
 #### Hi there! I am a software developer with a passion for creating efficient and scalable applications. I have experience working with a variety of programming languages and frameworks, and I am always looking to learn new technologies and expand my skillset. In my free time, I enjoy working on personal projects and exploring new ideas in the world of software development. I am a strong believer in collaboration and teamwork, and I am always looking for opportunities to work with other like-minded individuals to create great things together.
 
